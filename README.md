@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sme6en
 - 👀 I’m interested in Smart Contract Auditing
-- 🌱 I’m currently learning attack vectors
+- 🌱 I’m currently learning Attack Vectors
 - 😄 Pronouns: he/him
 
 <!---
